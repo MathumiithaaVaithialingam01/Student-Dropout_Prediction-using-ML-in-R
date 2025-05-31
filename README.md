@@ -32,7 +32,7 @@ This project applies logistic regression to predict student dropout risk using a
 - `student dropout.csv` – Input dataset  
 
 
-## ✅ Skills Demonstrated
+## Skills Demonstrated
 - Data Preprocessing & Transformation  
 - Feature Engineering (binary & factor conversion)  
 - Logistic Regression & Model Interpretation  
@@ -40,5 +40,5 @@ This project applies logistic regression to predict student dropout risk using a
 - Data Visualization using `ggplot2`  
 - Clear Documentation of Insights
 
-## 📌 Summary
+## Summary
 This project highlights how logistic regression can be used to uncover dropout patterns and predict outcomes. With strong EDA, feature engineering, and performance evaluation, this solution supports institutions in identifying and addressing student attrition risks.
